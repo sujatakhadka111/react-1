@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@geist-ui/react": "latest",
-    "next": "9.4.2",
+    "next": "12.0.2",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   }
